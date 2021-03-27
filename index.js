@@ -31,7 +31,7 @@ function sayHiToGrandma(string)
   {
     return "I love you, too."
   }
-  else 
+  else
   {
     return "What did you say?"
   }
